@@ -1,4 +1,7 @@
 #!/bin/bash
+### iris wang created on 10/25/2019 for creating test folders. 
+### these dummy folders will be cleaned by the clean archive scripts.
+
 function createDirs () {
   start=1;
   end=19;

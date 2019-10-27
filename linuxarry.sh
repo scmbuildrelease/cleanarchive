@@ -1,4 +1,7 @@
 #!/bin/bash
+## iris wang created on 10/25/2019
+## this script will keep the latest new seven build result
+## other buil result will be cleaned.
 
 declare -a arrayBuild=("foldername"
                 "dirname"
